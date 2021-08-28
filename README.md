@@ -8,11 +8,21 @@ The password can also get saved in a passwords.txt file.
 
 ## Usage/Examples
 
-Download the files and run the following command
+Download the files
+# For windows
 ```command
-node main -h
+./main-win.exe -h
 ```
 
+# For Mac OS
+```command
+./main-macos -h
+```
+
+# For Linux
+```command
+./main-linux -h
+```
   
 ## Authors
 
