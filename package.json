@@ -21,6 +21,7 @@
   "dependencies": {
     "chalk": "^4.1.2",
     "clipboardy": "^2.3.0",
-    "commander": "^8.1.0"
+    "commander": "^8.1.0",
+    "pkg": "^5.3.1"
   }
 }
